@@ -1,0 +1,65 @@
+#topBanner{
+  text-align: center;
+}
+
+.deposit{
+  text-align: center;
+  margin: 0;
+  margin-bottom: 5px;
+  margin-left: -15px;
+  width: auto;
+  display: inline;
+  
+}
+
+#topBanner, #totalIn, #Messages, .itemInfo{
+  text-align: center;
+  width: 100%;
+}
+
+#moneyIn{
+  display: block;
+  margin : 0 auto;
+  text-align: center;
+  border-style: solid;
+  margin-bottom: 5px;
+}
+
+#messageResponse, #changeDisplay{
+  border-style: solid;
+  height: 40px;
+  text-align: center;
+}
+
+.itemDiv{
+  padding: 5px;
+  margin-bottom: 10px;
+
+}
+
+.card-body{
+  border-style: solid;
+}
+
+#itemInput{
+  width: 100%;
+}
+
+#itemInputText{
+  width: 100%;
+}
+
+#makePurchase{
+  width: 100%;
+  padding: 0px;
+}
+
+#changeReturn{
+  width: 100%;
+  padding: 0px;
+}
+
+/* .itemInfo{
+  text-align: center;
+} */
+
